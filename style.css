@@ -151,6 +151,9 @@ body{
 @media only screen and (min-width: 41.875em){
     .header .hamburger{margin-left: 2rem;}
 }
+@media only screen and (min-width: 64em){
+    .header .hamburger{display: none}
+}
 
 .hero{
     width: 100%;
